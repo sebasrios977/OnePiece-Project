@@ -1,4 +1,3 @@
-import React from 'react'
 import { Navigate, Route, Routes } from 'react-router-dom'
 import { Navbar } from '../../ui'
 import { BlackbeardPage, PiratePage, SearchPage, StrawHatPage } from '../components'

@@ -11,7 +11,7 @@ export const pirates = [
         'id': 'sw-zoro',
         'pirate':'Roronoa Zoro', 
         'crew':'Straw Hats', 
-        'bounty': '$320.000.000',
+        'bounty': '$1.111.000.000',
         'alias':'Pirate Hunter',
         'occupation':'Fighter'
     },
@@ -19,7 +19,7 @@ export const pirates = [
         'id': 'sw-nami',
         'pirate':'Nami', 
         'crew':'Straw Hats', 
-        'bounty':'$66.000.000',
+        'bounty':'$366.000.000',
         'alias':'Cat Burglar',
         'occupation':'Navigator'
     },
@@ -27,7 +27,7 @@ export const pirates = [
         'id': 'sw-usopp',
         'pirate':'Usopp', 
         'crew':'Straw Hats', 
-        'bounty':'$200.000.000',
+        'bounty':'$500.000.000',
         'alias':'Sogeking',
         'occupation':'Sniper'
     },
@@ -35,7 +35,7 @@ export const pirates = [
         'id': 'sw-sanji',
         'pirate':'Vinsmoke Sanji', 
         'crew':'Straw Hats', 
-        'bounty':'$330.000.000',
+        'bounty':'$1.032.000.000',
         'alias':'Black Leg',
         'occupation':'Chef'
     },
@@ -43,7 +43,7 @@ export const pirates = [
         'id': 'sw-chopper',
         'pirate':'Tony Chopper', 
         'crew':'Straw Hats', 
-        'bounty':'$100',
+        'bounty':'$1.000',
         'alias':'Cotton Candy Lover',
         'occupation':'Doctor'
     },
@@ -51,7 +51,7 @@ export const pirates = [
         'id': 'sw-robin',
         'pirate':'Nico Robin', 
         'crew':'Straw Hats', 
-        'bounty':'$130.000.000',
+        'bounty':'$930.000.000',
         'alias':'Devil Child',
         'occupation':'Archeologist'
     },
@@ -59,7 +59,7 @@ export const pirates = [
         'id': 'sw-franky',
         'pirate':'Franky', 
         'crew':'Straw Hats', 
-        'bounty':'$94.000.000',
+        'bounty':'$394.000.000',
         'alias':'Iron Man',
         'occupation':'Shipwright'
     },
@@ -67,7 +67,7 @@ export const pirates = [
         'id': 'sw-brook',
         'pirate':'Brook', 
         'crew':'Straw Hats', 
-        'bounty':'$83.000.000',
+        'bounty':'$383.000.000',
         'alias':'Humming Brook',
         'occupation':'Musician'
     },
@@ -75,7 +75,7 @@ export const pirates = [
         'id': 'sw-jinbe',
         'pirate':'Jinbe', 
         'crew':'Straw Hats', 
-        'bounty':'$438.000.000',
+        'bounty':'$1.100.000.000',
         'alias':'Knight of the Sea',
         'occupation':'Helmsman'
     },

@@ -1,5 +1,6 @@
 
 import { Link } from 'react-router-dom'
+import { Navigate } from 'react-router-dom'
 
 export const PirateCard = (
     { 
@@ -19,7 +20,7 @@ export const PirateCard = (
         <div className='card'>
             <div className="row no-gutters">
                 <div className="col-4">
-                    <img src={ pirateImgUrl } alt={ pirate } className='card-img'/>
+                    <img src={ pirateImgUrl } alt={ pirate.pirate } className='card-img'/>
                 </div>
 
                 <div className="col-8">
