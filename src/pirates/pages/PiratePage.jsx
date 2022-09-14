@@ -14,15 +14,16 @@ export const PiratePage = () => {
     ( pirate.crew === 'Straw Hats' ) ? navigate('/strawhat') : navigate('/blackbeard');
   }
 
+  const pirateImgUrl = `/pirates/${id}.jpg`;
+
   if ( !pirate ) {
     return <Navigate to="/strawhat"/>
   }
 
-  console.log( pirate );
   return (
     <div className='row mt-4'>
         <div className="col-2">
-          <img src={`../../../assets/pirates/${ id }.jpg`} alt={ pirate.pirate } className='img-thumbnail animate__animated animate__fadeInDown'/>
+          <img src={pirateImgUrl} alt={ pirate.pirate } className='img-thumbnail animate__animated animate__fadeInDown'/>
         </div>
 
         <div className="col-3">

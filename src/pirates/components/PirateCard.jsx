@@ -12,7 +12,7 @@ export const PirateCard = (
         occupation,
     }) => {
 
-    const pirateImgUrl = `../../../assets/pirates/${ id }.jpg`;
+    const pirateImgUrl = `/pirates/${id}.jpg`;
 
 
   return (
