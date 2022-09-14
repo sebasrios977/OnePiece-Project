@@ -83,7 +83,7 @@ export const pirates = [
         'id': 'bb-teach',
         'pirate':'Marshall D. Teach', 
         'crew':'Blackbeard', 
-        'bounty':'$2.247.600.000',
+        'bounty':'$3.996.000.000',
         'alias':'Blackbeard',
         'occupation':'Captain'
     },
